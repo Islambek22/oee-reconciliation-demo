@@ -1,0 +1,7 @@
+date,line,shift,master,category,minutes,accounted_minutes,note
+2026-01-12,Линия А,day,Мастер 1,mechanical,42,480,Замена узла
+2026-01-12,Линия А,day,Мастер 1,process,30,480,Сбой подачи
+2026-01-12,Линия А,day,Мастер 1,standard_wash,25,480,Плановая мойка
+2026-01-12,Линия Б,day,Мастер 2,standard_other,35,480,Настройка
+2026-01-13,Линия А,day,Мастер 1,mechanical,20,440,Осмотр
+2026-01-13,Линия А,night,Мастер 3,electrical,30,480,Сбой датчика

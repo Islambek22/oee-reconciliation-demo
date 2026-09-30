@@ -1,0 +1,6 @@
+date,line,shift,master,category,start,end,total_downtime_minutes,repair_minutes,reason
+2026-01-12,Линия А,day,Мастер 1,mechanical,10:00,10:50,50,5,Замена узла
+2026-01-12,Линия А,day,Мастер 1,electrical,13:00,13:25,25,18,Сбой датчика
+2026-01-12,Линия Б,day,Мастер 2,process,14:00,14:35,35,30,Настройка
+2026-01-13,Линия А,day,Мастер 1,mechanical,09:00,09:20,20,12,Осмотр
+2026-01-13,Линия А,night,Мастер 3,electrical,23:45,00:15,30,20,Сбой датчика
